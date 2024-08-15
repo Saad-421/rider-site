@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background: #000;
+    color: red;
+}
+.container{
+    display: flex;
+    justify-content:center ;
+    
+}
